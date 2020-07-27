@@ -12,3 +12,4 @@ puts phrase
 puts phrase
 puts phrase
 
+10.times puts 
